@@ -73,19 +73,23 @@ design-my-shirt
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/design-my-shirt.git
+git clone https://github.com/ranjith-devaraj/customization-website.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd design-my-shirt
+cd customization-website
 ```
 
 Install dependencies:
 
 ```bash
 npm install
+```
+
+```basb
+ npm install fabric@5.3.0
 ```
 
 Start the development server:
